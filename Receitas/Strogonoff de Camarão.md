@@ -2,8 +2,8 @@
 
 ##Ingredientes:
 
-###Matéria prima			Peso Bruto	Unidade de Medida
- 
+###|Matéria prima|Peso Bruto|Unidade de Medida|
+    |-------|-------|-------|
 ####Cebola				0,110		kg
 ####Creme de leite fresco		0,370		kg
 ####Conhaque			0,030		kg
